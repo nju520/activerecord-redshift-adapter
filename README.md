@@ -10,7 +10,7 @@ This is based entirely on a fork of [aamine's ActiveRecord4 Redshift Adapter](ht
 
 Write following in Gemfile:
 ```
-gem 'activerecord-redshift-adapter', git: "git://github.com/LoyaltyNZ/activerecord-redshift-adapter.git"
+gem 'activerecord-redshift-adapter', git: "git://github.com/nju520/activerecord-redshift-adapter.git"
 
 ```
 
